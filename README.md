@@ -35,7 +35,7 @@
 <br />
 
 ---
-[![github](https://user-images.githubusercontent.com/81066256/130846433-fa09aab9-f638-40c3-b397-7f50806686af.png)][1][![linkedin](https://user-images.githubusercontent.com/81066256/130846259-2382a5f3-0003-4104-9372-cc220983b6b5.png)][2]
+[![github](https://user-images.githubusercontent.com/81066256/130846433-fa09aab9-f638-40c3-b397-7f50806686af.png)][1][![linkedin](https://user-images.githubusercontent.com/81066256/130847314-53469f83-092e-4670-ad71-16e3c2331494.png)][2]
 
 ---
 
