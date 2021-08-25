@@ -35,9 +35,10 @@
 <br />
 
 ---
-[![github](https://user-images.githubusercontent.com/81066256/130846433-fa09aab9-f638-40c3-b397-7f50806686af.png = 250x250)][1][![linkedin](https://user-images.githubusercontent.com/81066256/130847314-53469f83-092e-4670-ad71-16e3c2331494.png = 250x250)][2]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 
 ---
+
 
 
 
