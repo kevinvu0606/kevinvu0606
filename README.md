@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[website]: To be updated soon!
+[Website]: To be updated soon!
 <br />
-[linkedin]: https://www.linkedin.com/in/kevin-vu-06/
+[Linkedin]: https://www.linkedin.com/in/kevin-vu-06/
 
 
 <br />
