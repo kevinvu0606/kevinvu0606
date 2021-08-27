@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Build an app with Django
 - ⚡ Fun fact: I love playing video games and am trying to learn woodworking
 
-[Website]: To be updated soon!
+[Website]: https://portfolio-website-two-inky.vercel.app/
 <br />
 
 
