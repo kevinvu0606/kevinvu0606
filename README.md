@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Teacher , Developer, and Pharmacist!!
 
-- 🔭 I'm currently completing my Software Engineering Immersive course from General Assembly!
+- 🔭 I'm currently a Graduate Software Engineer !
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Build an app with Django
 - ⚡ Fun fact: I love playing video games and am trying to learn woodworking
