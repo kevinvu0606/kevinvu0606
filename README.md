@@ -2,13 +2,13 @@
 
 ## I'm a Software Engineer, Pharmacist and loving husband
 
-- 🔭 I'm currently working as a Graduate Software Engineer at Tyro Health/Medipass
-- I have completed my General Assembly Software Engineering Immersive Bootcamp
+- 🔭 I'm currently a Graduate Software Engineer !
 - 🌱 I’m currently learning everything
 - 🥅 2022 Goals: Build an app with Django
-- ⚡ Fun fact: I love playing video games and am trying to learn woodworking
+- ⚡ Fun fact: I love playing video games and am trying to learn how to powerlift
 
-[Website]: To be updated soon!
+[website]: https://portfolio-website-two-inky.vercel.app/
+
 <br />
 
 <br />
