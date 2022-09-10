@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, Pharmacist and loving husband
 
-- 🔭 I'm currently a Graduate Software Engineer !
+- 🔭 I'm currently a Graduate Software Engineer working at Tyro Health / Medipass!
 - 🌱 I’m currently learning everything
 - 🥅 2022 Goals: Build an app with Django
 - ⚡ Fun fact: I love playing video games and am trying to learn how to powerlift
