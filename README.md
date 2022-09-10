@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently a Graduate Software Engineer working at Tyro Health / Medipass!
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Build an app with Django
+- 🥅 2022 Goals: Build an app with Django and learn Typescript
 - ⚡ Fun fact: I love playing video games and am trying to learn how to powerlift
 
 [website]: https://portfolio-website-two-inky.vercel.app/
