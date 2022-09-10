@@ -1,15 +1,15 @@
 ### Hi there, I'm Kevin!👋
 
-## I'm a Husband, Teacher , Developer, and Pharmacist!!
+## I'm a Software Engineer, Pharmacist and loving husband
 
-- 🔭 I'm currently completing my Software Engineering Immersive course from General Assembly!
-- 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Build an app with Django
+- 🔭 I'm currently working as a Graduate Software Engineer at Tyro Health/Medipass
+- I have completed my General Assembly Software Engineering Immersive Bootcamp
+- 🌱 I’m currently learning everything
+- 🥅 2022 Goals: Build an app with Django
 - ⚡ Fun fact: I love playing video games and am trying to learn woodworking
 
 [Website]: To be updated soon!
 <br />
-
 
 <br />
 
@@ -21,7 +21,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/ruby/ruby.svg" />
+<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/ruby/ruby.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -30,20 +30,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 <br />
 <br />
 
 ---
+
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 
 ---
 
-
-
-
-
-
 [1]: https://github.com/kevinvu0606
 [2]: https://www.linkedin.com/in/kevin-vu-06/
-
