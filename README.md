@@ -7,8 +7,6 @@
 - 🥅 2022 Goals: Build an app with Django and learn Typescript
 - ⚡ Fun fact: I love playing video games and am trying to learn how to powerlift
 
-[website]: https://portfolio-website-two-inky.vercel.app/
-
 <br />
 
 <br />
